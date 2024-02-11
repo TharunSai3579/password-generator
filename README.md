@@ -1,2 +1,1 @@
-# Timerprojectinpython
-## python code
+ 
